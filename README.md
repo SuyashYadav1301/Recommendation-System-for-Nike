@@ -8,6 +8,7 @@ Interactive Streamlit Web App: Allows users to input preferences and receive per
 Tableau Dashboard: Offers visual insights into product performance and key metrics.
 
 DatasetDescription:
+https://www.kaggle.com/datasets/polartech/nike-sportwear-product-dataset
 The dataset contains key attributes of Nike Plus products, including department, category, subcategory, size, color, price, and product type. This data is used to personalize recommendations, focusing on the most relevant features for enhancing user engagement.
 
 Methodology:
